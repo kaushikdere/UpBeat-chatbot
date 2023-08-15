@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UpBeatProject</string>
+    <string name="news_api_key">Here your News Api String will come</string>
+</resources>
